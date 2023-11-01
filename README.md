@@ -1,7 +1,9 @@
 # Entrenamiento SQL
 Este es un repositorio con una base de datos dummy sobre cultivos. Hay unos ejercicios propuestos y la solución puede ser vista en la carpeta _sql_ (las soluciones estan en construcción. Puedes enviar un PR con la solución de alguno de los ejercicios propuestos).
 
-## Datos tecnicos
+Click [**aqui**](./Contributing.md) si quieres saber como contribuir al repositorio con soluciones a los retos, datos y/o ejercicios.
+
+## Datos técnicos
 Las tablas que encontraras en [**datos_cultivos.db**](./datos_cultivos.db) son las siguientes:
 
 * **Finca**: Esta tabla contiene los datos de las fincas de los agricultores. Los campos que contiene son:
