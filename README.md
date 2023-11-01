@@ -55,7 +55,7 @@ El diagrama de las relaciones entre las tablas es el siguiente:
 
 ## Ejercicios
 1. Listar el nombre de las fincas y el nombre de sus propietarios - **Solución: [1.sql](./sql/1.sql)**
-2. Identificar cuantos cultivos diferentes hay registrados
+2. Identificar cuantos cultivos diferentes hay  - **Solución: [2.sql](./sql/2.sql)**
 3. Cual fue el cultivo de mayor inversion?
 4. Cual fue el cultivo de menor inversion?
 5. Quien es el propietario de la finca con el cultivo de mayor inversion?
